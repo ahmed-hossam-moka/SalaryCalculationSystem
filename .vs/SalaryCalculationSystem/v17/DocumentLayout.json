@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\systemconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\systemconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\salesagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\salesagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|d:\\courses\\oop\\coderepo\\salarycalculationsystem\\salarycalculationsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2E8F8-103D-4873-8ABA-EFDB5EFD3D67}|SalaryCalculationSystem\\SalaryCalculationSystem.csproj|solutionrelative:salarycalculationsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 386,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,78 +50,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "SystemConstants.cs",
+              "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SystemConstants.cs",
+              "RelativeDocumentMoniker": "SalaryCalculationSystem\\SystemConstants.cs",
+              "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SystemConstants.cs",
+              "RelativeToolTip": "SalaryCalculationSystem\\SystemConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:52:55.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SoftwareEngineer.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SoftwareEngineer.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\SoftwareEngineer.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SoftwareEngineer.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\SoftwareEngineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T13:11:52.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SalesAgent.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SalesAgent.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\SalesAgent.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\SalesAgent.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\SalesAgent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T12:24:27.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HandyMan.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\HandyMan.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\HandyMan.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\HandyMan.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\HandyMan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T12:17:29.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Manager.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\Manager.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Manager.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T11:10:19.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Employee.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\Employee.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Employee.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\Employee.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T07:39:02.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Program.cs",
               "RelativeDocumentMoniker": "SalaryCalculationSystem\\Program.cs",
               "ToolTip": "D:\\Courses\\OOP\\CodeRepo\\SalaryCalculationSystem\\SalaryCalculationSystem\\Program.cs",
               "RelativeToolTip": "SalaryCalculationSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T07:38:40.725Z",
               "EditorCaption": ""
